@@ -47,6 +47,10 @@
                 {
                     "type": "patch",
                     "path": "udevdir.patch"
+                },
+                {
+                    "type": "patch",
+                    "path": "udev.metainfo.patch"
                 }
             ]
         },
